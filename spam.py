@@ -1,4 +1,5 @@
 import requests, json
+print (' Script By Abilseno11 ')
 yu = input('Massukkan nomor target (ex:088118) ; ')
 eek = int(input('Massukkan jumlah : '))
 hd  = {'user-agent':'Mozilla/5.0 (Linux; Android 9; vivo 1902) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36'}
